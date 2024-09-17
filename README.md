@@ -1,12 +1,12 @@
 # IROS2024 Paper List
 
-This repo contains a list of all the papers accepted at IROS2024. The papers that currently have published preprints to Arxiv a link and abstracts are provided.
-I'll hopefully add more links/abstracts as they come avaliable.
+This repo contains a list of all the papers accepted at IROS2024. The papers that currently have published preprints to arxiv a link and abstracts are provided.
+I'll hopefully add more links/abstracts as they come available.
 
 There is also a google sheets version with abstracts [here](https://docs.google.com/spreadsheets/d/1IuUvJUJSAv-zI0vWzEeHusA1LkfTL2SsSoajUg1qpGs/edit?usp=sharing). 
 Official list [here](https://iros2024-abudhabi.org/accepted-papers).
 
-If there is a mistake or link to be added submit a PR.
+If there is a mistake or link to be added, submit a PR.
 
 # Paper List
 |Title|Authors|
