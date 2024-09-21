@@ -519,7 +519,7 @@ If there is a mistake or link to be added, submit a PR.
 |A Multi-model Fusion of LiDAR-inertial Odometry via Localization and Mapping|Nguyen, An; Le, Chuong; Walunj, Pratik; Do, Thanh Nho; Netchaev, Anton; La, Hung|
 |[Effects of fiber number and density on fiber jamming: Towards follow-the-leader deployment of a continuum robot](https://arxiv.org/abs/2408.13529)|Qian, Chen; Liu, Tangyou; Wu, Liao|
 |Belief-Aided Navigation using Bayesian Reinforcement Learning for Avoiding Humans in Blind Spots|Kim, Jinyeob; DAEWON, KWAK; RIM, Hyunwoo; Kim, Donghan|
-|Large-scale Indoor Mapping with Failure Detection and Recovery in SLAM|Rahman, Sharmin; DiPietro, Robert; Kedarisetti, Dharanish; Kulathumani, Vinod|
+|[Large-scale Indoor Mapping with Failure Detection and Recovery in SLAM](https://assets.amazon.science/4d/c7/f15d4d9a4c1d976df4e975144d3e/large-scale-indoor-mapping-with-failure-detection-and-recovery-in-slam.pdf)|Rahman, Sharmin; DiPietro, Robert; Kedarisetti, Dharanish; Kulathumani, Vinod|
 |[Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting](https://arxiv.org/abs/2403.09875)|Swann, Aiden; Strong, Matthew; Do, Won Kyung; Sznaier Camps, Gadiel; Schwager, Mac; Kennedy, Monroe|
 |[OSM vs HD Maps: Map Representations for Trajectory Prediction](https://arxiv.org/abs/2311.02305)|Liao, Jing-Yan; Doshi, Parth Jaydip; Zhang, Zihan; Paz, David; Christensen, Henrik Iskov|
 |FoveaCam++: Systems-Level Advances for Long Range Multi-Object High-Resolution Tracking|Zhang, Yuxuan; Koppal, Sanjeev|
