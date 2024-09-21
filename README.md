@@ -808,7 +808,7 @@ If there is a mistake or link to be added, submit a PR.
 |A Context-Enhanced Full-Resolution Floor Plan Segmentation Network for Topological Semantic Mapping|Cao, Zhengcai; Sun, Yiyang; Ma, Zhe; Zhou, MengChu|
 |[DRIFT: Deep Reinforcement Learning for Intelligent Floating Platforms Trajectories](https://arxiv.org/abs/2310.04266)|El Hariry, Matteo; Richard, Antoine; Muralidharan, Vivek; Geist, Matthieu; Olivares-Mendez, Miguel A.|
 |[SSAP: A Shape-Sensitive Adversarial Patch for Comprehensive Disruption of Monocular Depth Estimation in Autonomous Navigation Applications](https://arxiv.org/abs/2403.11515)|Guesmi, Amira; Hanif, Muhammad Abdullah; Alouani, Ihsen; OUNI, Bassem; Shafique, Muhammad|
-|MapLocNet: Coarse-to-Fine Visual Neural Re-Localization in Navigation Maps|Wu, Hang; Zhang, Zhenghao; Lin, Siyuan; Mu, Xiangru; Zhao, Qiang; Yang, Ming; Qin, Tong|
+|[MapLocNet: Coarse-to-Fine Visual Neural Re-Localization in Navigation Maps](https://arxiv.org/pdf/2407.08561)|Wu, Hang; Zhang, Zhenghao; Lin, Siyuan; Mu, Xiangru; Zhao, Qiang; Yang, Ming; Qin, Tong|
 |Cross-Modal Visual Relocalization in Prior LiDAR Maps Utilizing Intensity Textures|Shen, Qiyuan; Zhao, Hengwang; Yan, Weihao; Qin, Tong; Yang, Ming|
 |Learning a Pre-Grasp Manipulation Policy to Effectively Retrieve a Target in Dense Clutter|Kiatos, Marios; Koutras, Leonidas; Sarantopoulos, Iason; Doulgeri, Zoe|
 |[ParkingE2E: Camera-based End-to-end Parking Network, from Images to Planning](https://arxiv.org/abs/2408.02061)|Li, Changze; Ji, Ziheng; Qin, Tong; Yang, Ming|
