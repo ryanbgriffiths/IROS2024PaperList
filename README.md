@@ -1376,7 +1376,7 @@ If there is a mistake or link to be added, submit a PR.
 |Data-Driven Koopman Operator-Based Error-State Kalman Filter for Enhancing State Estimation of Quadrotors in Agile Flight|Huang, Peng; Zheng, Ketong; Fettweis, Gerhard|
 |Self Supervised Detection of Incorrect Human Demonstrations: A Path Toward Safe Imitation Learning by Robots in the Wild|Sojib, Noushad; Begum, Momotaz|
 |[Identification and validation of the dynamic model of a tendon-driven anthropomorphic finger](https://arxiv.org/abs/2408.13044)|Li, Junnan; Chen, Lingyun; Ringwald, Johannes; Pozo Fortuni&#263;, Edmundo; Ganguly, Amartya; Haddadin, Sami|
-|Neuro-Explorer: Efficient and Scalable Exploration Planning via Learned Frontier Regions|Han, Kyung Min; Kim, Young J.|
+|[Neuro-Explorer: Efficient and Scalable Exploration Planning via Learned Frontier Regions](https://han-kyung-min.github.io/neuro-explorer.github.io//static/pdfs/IROS24_3016_FI.pdf)|Han, Kyung Min; Kim, Young J.|
 |[Constrained 6-DoF Grasp Generation on Complex Shapes for Improved Dual-Arm Manipulation](https://arxiv.org/abs/2404.04643)|Singh, Gaurav; Kalwar, Sanket; Karim, Md Faizal; Sen, Bipasha; Govindan, Nagamanikandan; Sridhar, Srinath; Krishna, Madhava|
 |ODD-diLLMma: Driving Automation System ODD Compliance Checking using LLMs|Hildebrandt, Carl; Woodlief, Trey; Elbaum, Sebastian|
 |PickScan: Object discovery and reconstruction from handheld interactions|van der Brugge, Vincent Daniel; Pollefeys, Marc; Tenenbaum, Joshua; Jatavallabhula, Krishna Murthy; Tewari, Ayush|
