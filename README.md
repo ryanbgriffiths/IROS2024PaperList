@@ -756,7 +756,7 @@ If there is a mistake or link to be added, submit a PR.
 |[DoReMi: Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment](https://arxiv.org/abs/2307.00329)|Guo, Yanjiang; Wang, Yen-Jen; Zha, Lihan; Chen, Jianyu|
 |[SURESTEP: An Uncertainty-Aware Trajectory Optimization Framework to Enhance Visual Tool Tracking for Robust Surgical Automation](https://arxiv.org/abs/2404.00123)|Shinde, Nikhil; Chiu, Zih-Yun; Richter, Florian; Lim, Jason; Zhi, Yuheng; Herbert, Sylvia; Yip, Michael C.|
 |[TempBEV: Improving Learned BEV Encoders with Combined Image and BEV Space Temporal Aggregation](https://arxiv.org/abs/2404.11803)|Monninger, Thomas; Dokkadi, Vandana; Anwar, Md Zafar; Staab, Steffen|
-|Indoor Position Estimation Using NLoS Reflect Path by Wireless Distance Sensors|Itsuka, Tomoya; Kurazume, Ryo|
+|[Indoor Position Estimation Using NLoS Reflect Path by Wireless Distance Sensors](https://robotics.ait.kyushu-u.ac.jp/kurazume/papers/ItsukaSII23.pdf)|Itsuka, Tomoya; Kurazume, Ryo|
 |Robot Guided Evacuation with Viewpoint Constraints|Gong, Chen; Meghjani, Malika; Prasetyo, Marcel Bartholomeus|
 |[Switching Sampling Space of Model Predictive Path-Integral Controller to Balance Efficiency and Safety in 4WIDS Vehicle Navigation](https://arxiv.org/abs/2409.08648)|Aoki, Mizuho; Honda, Kohei; Okuda, Hiroyuki; Suzuki, Tatsuya|
 |SLIP Nature Embodied Robust Quadruped Robot Control|Hong, Jin song; Yeo, Changmin; Bae, Sangjin; Hong, Jeongwoo; Oh, Sehoon|
