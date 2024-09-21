@@ -493,7 +493,7 @@ If there is a mistake or link to be added, submit a PR.
 |SparseGTN: Human Trajectory Forecasting with Sparsely Represented Scene and Incomplete Trajectories|Liu, Jianbang; Li, Guangyang; Mao, Xinyu; Meng, Fei; Mei, Jie; Meng, Max Q.-H.|
 |Improving behavior profile discovery for vehicles|de Moura Martins Gomes, Nelson; Garrido Carpio, Fernando José; Nashashibi, Fawzi|
 |[BaSeNet: A Learning-based Mobile Manipulator Base Pose Sequence Planning for Pickup Tasks](https://arxiv.org/abs/2406.08653)|Naik, Lakshadeep; Kalkan, Sinan; Sørensen, Sune Lundø; Mikkel, Kjærgaard; Krüger, Norbert|
-|Ternary-Type Opacity and Hybrid Odometry for RGB NeRF-SLAM](https://arxiv.org/pdf/2312.13332)|Lin, Junru; Nachkov, Asen; Peng, Songyou; Van Gool, Luc; Paudel, Danda Pani|
+|[Ternary-Type Opacity and Hybrid Odometry for RGB NeRF-SLAM](https://arxiv.org/pdf/2312.13332)|Lin, Junru; Nachkov, Asen; Peng, Songyou; Van Gool, Luc; Paudel, Danda Pani|
 |[CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration](https://arxiv.org/abs/2408.02394)|Yao, Gongxin; Xuan, Yixin; Li, Xinyang; Pan, Yu|
 |Interactive Multi-Stiffness Mixed Reality Interface: Controlling and Visualizing Robot and Environment Stiffnes|Díaz Rosales, Alejandro; Rodriguez-Nogueira, Jose; Matheson, Eloise; Abbink, David A.; Peternel, Luka|
 |Design and Evaluation of a Prototype Tactile Radar for Active Sensing of Proximal Objects|Dechaux, Amaury; Kitazaki, Michiteru; Lagarde, Julien; Ganesh, Gowrishankar|
