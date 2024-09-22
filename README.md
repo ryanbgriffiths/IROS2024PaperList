@@ -1206,7 +1206,7 @@ If there is a mistake or link to be added, submit a PR.
 |GESCE: Graph-based Ergodic Search in Cluttered Environments|Shirose, Burhanuddin; Johnson, Adam; Vundurthy, Bhaskar; Choset, Howie; Travers, Matthew|
 |[Design of Stickbug: a Six-Armed Precision Pollination Robot](https://arxiv.org/abs/2404.03489)|Smith, Trevor; Rijal, Madhav; Arend Tatsch, Christopher Alexander; Butts, R. Michael; Beard, Jared; Robert Cook, Tyler; Chu, Andy; Gross, Jason; Gu, Yu|
 |Shape-prior Free Space-time Neural Radiance Field for 4D Semantic Reconstruction of Dynamic Scene from Sparse-View RGB Videos|Biswas, Sandika; Banerjee, Biplab; Rezatofighi, Hamid|
-|FC-Hetero: Fast and Autonomous Aerial Reconstruction Using a LiDAR-Visual Heterogeneous Multi-UAV System|Zhang, Mingjie; Feng, Chen; Li, Zengzhi; Zheng, Guiyong; Luo, Yiming; Wang, Zhu; ZHOU, Jinni; Shen, Shaojie; Zhou, Boyu|
+|[SOAR: Simultaneous Exploration and Photographing with Heterogeneous UAVs for Fast Autonomous Reconstruction](https://arxiv.org/abs/2409.02738)|Zhang, Mingjie; Feng, Chen; Li, Zengzhi; Zheng, Guiyong; Luo, Yiming; Wang, Zhu; ZHOU, Jinni; Shen, Shaojie; Zhou, Boyu|
 |Force-Triggered Control Design for User Intent-Driven Assistive Upper-Limb Robots|Manzano, Maxime; Guegan, Sylvain; Le Breton, Ronan; Devigne, Louise; Babel, Marie|
 |Importance of Translational Velocity for Bird-scale Flapping Wing Vehicles Incapable of Hovering|Zhou, Shijun; Orr, Aidan; Hyun, Nak-seung Patrick|
 |Learned Sensor Fusion For Robust Human Activity Recognition in Challenging Environments|Conway, Max; Reily, Brian; Reardon, Christopher M.|
