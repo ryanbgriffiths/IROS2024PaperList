@@ -493,7 +493,7 @@ If there is a mistake or link to be added, submit a PR.
 |SparseGTN: Human Trajectory Forecasting with Sparsely Represented Scene and Incomplete Trajectories|Liu, Jianbang; Li, Guangyang; Mao, Xinyu; Meng, Fei; Mei, Jie; Meng, Max Q.-H.|
 |Improving behavior profile discovery for vehicles|de Moura Martins Gomes, Nelson; Garrido Carpio, Fernando José; Nashashibi, Fawzi|
 |[BaSeNet: A Learning-based Mobile Manipulator Base Pose Sequence Planning for Pickup Tasks](https://arxiv.org/abs/2406.08653)|Naik, Lakshadeep; Kalkan, Sinan; Sørensen, Sune Lundø; Mikkel, Kjærgaard; Krüger, Norbert|
-|Ternary-Type Opacity and Hybrid Odometry for RGB NeRF-SLAM|Lin, Junru; Nachkov, Asen; Peng, Songyou; Van Gool, Luc; Paudel, Danda Pani|
+|[Ternary-Type Opacity and Hybrid Odometry for RGB NeRF-SLAM](https://arxiv.org/pdf/2312.13332)|Lin, Junru; Nachkov, Asen; Peng, Songyou; Van Gool, Luc; Paudel, Danda Pani|
 |[CMR-Agent: Learning a Cross-Modal Agent for Iterative Image-to-Point Cloud Registration](https://arxiv.org/abs/2408.02394)|Yao, Gongxin; Xuan, Yixin; Li, Xinyang; Pan, Yu|
 |Interactive Multi-Stiffness Mixed Reality Interface: Controlling and Visualizing Robot and Environment Stiffnes|Díaz Rosales, Alejandro; Rodriguez-Nogueira, Jose; Matheson, Eloise; Abbink, David A.; Peternel, Luka|
 |Design and Evaluation of a Prototype Tactile Radar for Active Sensing of Proximal Objects|Dechaux, Amaury; Kitazaki, Michiteru; Lagarde, Julien; Ganesh, Gowrishankar|
@@ -519,7 +519,7 @@ If there is a mistake or link to be added, submit a PR.
 |A Multi-model Fusion of LiDAR-inertial Odometry via Localization and Mapping|Nguyen, An; Le, Chuong; Walunj, Pratik; Do, Thanh Nho; Netchaev, Anton; La, Hung|
 |[Effects of fiber number and density on fiber jamming: Towards follow-the-leader deployment of a continuum robot](https://arxiv.org/abs/2408.13529)|Qian, Chen; Liu, Tangyou; Wu, Liao|
 |Belief-Aided Navigation using Bayesian Reinforcement Learning for Avoiding Humans in Blind Spots|Kim, Jinyeob; DAEWON, KWAK; RIM, Hyunwoo; Kim, Donghan|
-|Large-scale Indoor Mapping with Failure Detection and Recovery in SLAM|Rahman, Sharmin; DiPietro, Robert; Kedarisetti, Dharanish; Kulathumani, Vinod|
+|[Large-scale Indoor Mapping with Failure Detection and Recovery in SLAM](https://assets.amazon.science/4d/c7/f15d4d9a4c1d976df4e975144d3e/large-scale-indoor-mapping-with-failure-detection-and-recovery-in-slam.pdf)|Rahman, Sharmin; DiPietro, Robert; Kedarisetti, Dharanish; Kulathumani, Vinod|
 |[Touch-GS: Visual-Tactile Supervised 3D Gaussian Splatting](https://arxiv.org/abs/2403.09875)|Swann, Aiden; Strong, Matthew; Do, Won Kyung; Sznaier Camps, Gadiel; Schwager, Mac; Kennedy, Monroe|
 |[OSM vs HD Maps: Map Representations for Trajectory Prediction](https://arxiv.org/abs/2311.02305)|Liao, Jing-Yan; Doshi, Parth Jaydip; Zhang, Zihan; Paz, David; Christensen, Henrik Iskov|
 |FoveaCam++: Systems-Level Advances for Long Range Multi-Object High-Resolution Tracking|Zhang, Yuxuan; Koppal, Sanjeev|
@@ -756,7 +756,7 @@ If there is a mistake or link to be added, submit a PR.
 |[DoReMi: Grounding Language Model by Detecting and Recovering from Plan-Execution Misalignment](https://arxiv.org/abs/2307.00329)|Guo, Yanjiang; Wang, Yen-Jen; Zha, Lihan; Chen, Jianyu|
 |[SURESTEP: An Uncertainty-Aware Trajectory Optimization Framework to Enhance Visual Tool Tracking for Robust Surgical Automation](https://arxiv.org/abs/2404.00123)|Shinde, Nikhil; Chiu, Zih-Yun; Richter, Florian; Lim, Jason; Zhi, Yuheng; Herbert, Sylvia; Yip, Michael C.|
 |[TempBEV: Improving Learned BEV Encoders with Combined Image and BEV Space Temporal Aggregation](https://arxiv.org/abs/2404.11803)|Monninger, Thomas; Dokkadi, Vandana; Anwar, Md Zafar; Staab, Steffen|
-|Indoor Position Estimation Using NLoS Reflect Path by Wireless Distance Sensors|Itsuka, Tomoya; Kurazume, Ryo|
+|[Indoor Position Estimation Using NLoS Reflect Path by Wireless Distance Sensors](https://robotics.ait.kyushu-u.ac.jp/kurazume/papers/ItsukaSII23.pdf)|Itsuka, Tomoya; Kurazume, Ryo|
 |Robot Guided Evacuation with Viewpoint Constraints|Gong, Chen; Meghjani, Malika; Prasetyo, Marcel Bartholomeus|
 |[Switching Sampling Space of Model Predictive Path-Integral Controller to Balance Efficiency and Safety in 4WIDS Vehicle Navigation](https://arxiv.org/abs/2409.08648)|Aoki, Mizuho; Honda, Kohei; Okuda, Hiroyuki; Suzuki, Tatsuya|
 |SLIP Nature Embodied Robust Quadruped Robot Control|Hong, Jin song; Yeo, Changmin; Bae, Sangjin; Hong, Jeongwoo; Oh, Sehoon|
@@ -808,7 +808,7 @@ If there is a mistake or link to be added, submit a PR.
 |A Context-Enhanced Full-Resolution Floor Plan Segmentation Network for Topological Semantic Mapping|Cao, Zhengcai; Sun, Yiyang; Ma, Zhe; Zhou, MengChu|
 |[DRIFT: Deep Reinforcement Learning for Intelligent Floating Platforms Trajectories](https://arxiv.org/abs/2310.04266)|El Hariry, Matteo; Richard, Antoine; Muralidharan, Vivek; Geist, Matthieu; Olivares-Mendez, Miguel A.|
 |[SSAP: A Shape-Sensitive Adversarial Patch for Comprehensive Disruption of Monocular Depth Estimation in Autonomous Navigation Applications](https://arxiv.org/abs/2403.11515)|Guesmi, Amira; Hanif, Muhammad Abdullah; Alouani, Ihsen; OUNI, Bassem; Shafique, Muhammad|
-|MapLocNet: Coarse-to-Fine Visual Neural Re-Localization in Navigation Maps|Wu, Hang; Zhang, Zhenghao; Lin, Siyuan; Mu, Xiangru; Zhao, Qiang; Yang, Ming; Qin, Tong|
+|[MapLocNet: Coarse-to-Fine Visual Neural Re-Localization in Navigation Maps](https://arxiv.org/pdf/2407.08561)|Wu, Hang; Zhang, Zhenghao; Lin, Siyuan; Mu, Xiangru; Zhao, Qiang; Yang, Ming; Qin, Tong|
 |Cross-Modal Visual Relocalization in Prior LiDAR Maps Utilizing Intensity Textures|Shen, Qiyuan; Zhao, Hengwang; Yan, Weihao; Qin, Tong; Yang, Ming|
 |Learning a Pre-Grasp Manipulation Policy to Effectively Retrieve a Target in Dense Clutter|Kiatos, Marios; Koutras, Leonidas; Sarantopoulos, Iason; Doulgeri, Zoe|
 |[ParkingE2E: Camera-based End-to-end Parking Network, from Images to Planning](https://arxiv.org/abs/2408.02061)|Li, Changze; Ji, Ziheng; Qin, Tong; Yang, Ming|
@@ -1376,7 +1376,7 @@ If there is a mistake or link to be added, submit a PR.
 |Data-Driven Koopman Operator-Based Error-State Kalman Filter for Enhancing State Estimation of Quadrotors in Agile Flight|Huang, Peng; Zheng, Ketong; Fettweis, Gerhard|
 |Self Supervised Detection of Incorrect Human Demonstrations: A Path Toward Safe Imitation Learning by Robots in the Wild|Sojib, Noushad; Begum, Momotaz|
 |[Identification and validation of the dynamic model of a tendon-driven anthropomorphic finger](https://arxiv.org/abs/2408.13044)|Li, Junnan; Chen, Lingyun; Ringwald, Johannes; Pozo Fortuni&#263;, Edmundo; Ganguly, Amartya; Haddadin, Sami|
-|Neuro-Explorer: Efficient and Scalable Exploration Planning via Learned Frontier Regions|Han, Kyung Min; Kim, Young J.|
+|[Neuro-Explorer: Efficient and Scalable Exploration Planning via Learned Frontier Regions](https://han-kyung-min.github.io/neuro-explorer.github.io//static/pdfs/IROS24_3016_FI.pdf)|Han, Kyung Min; Kim, Young J.|
 |[Constrained 6-DoF Grasp Generation on Complex Shapes for Improved Dual-Arm Manipulation](https://arxiv.org/abs/2404.04643)|Singh, Gaurav; Kalwar, Sanket; Karim, Md Faizal; Sen, Bipasha; Govindan, Nagamanikandan; Sridhar, Srinath; Krishna, Madhava|
 |ODD-diLLMma: Driving Automation System ODD Compliance Checking using LLMs|Hildebrandt, Carl; Woodlief, Trey; Elbaum, Sebastian|
 |PickScan: Object discovery and reconstruction from handheld interactions|van der Brugge, Vincent Daniel; Pollefeys, Marc; Tenenbaum, Joshua; Jatavallabhula, Krishna Murthy; Tewari, Ayush|
